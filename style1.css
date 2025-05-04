@@ -4,6 +4,11 @@
     height: 250px;
     border-radius: 70px;
 }
+@font-face {
+    font-family: myFont;
+    src: url(ritu.ttf);
+}
+
 #b1 {
     
     background: linear-gradient(rgba(241, 3, 90, 0.6), #ff0066);
@@ -26,6 +31,7 @@
     align-items: center;
   }
   .message-container {
+    font-family: myFont;
     margin-top: 40vh;
     font-size: 24px;
     color: #ff3366;
