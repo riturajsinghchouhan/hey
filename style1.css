@@ -10,10 +10,11 @@
     
   }
   body{
+       background-size: contain;
+       background-image: url(back.jpg);
     font-family: sans-serif;
     text-align: center;
-    background-image: url(back.jpg);
-    background-size: contain;
+   
     font-family: Times,sans-serif;
     
   }
