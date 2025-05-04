@@ -3,8 +3,6 @@
     width: 250px;
     height: 250px;
     border-radius: 70px;
-    
-    
 }
 #b1 {
     
@@ -26,15 +24,6 @@
     justify-content: center;
     align-items: center;
   }
-  
-  /*.center-img {
-   .center-img:hover {
-    
-  }
-  }*/
-  
-  
-  /* Message page styling */
   .message-container {
     margin-top: 40vh;
     font-size: 24px;
@@ -57,4 +46,3 @@
     50% { transform: translate(-50%, -60%) scale(1.2) rotate(180deg); }
     100% { transform: translate(-50%, -50%) scale(1) rotate(360deg); }
   }
-
