@@ -15,7 +15,7 @@
     font-family: sans-serif;
     text-align: center;
     background-image: url(back.jpg);
-    background-size: cover;
+    background-size: contain;
     font-family: Times,sans-serif;
     
   }
